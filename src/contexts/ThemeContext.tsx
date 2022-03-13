@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark, lightColors} from 'nerdfinancev2'
+import { light, dark, lightColors} from 'platinumfinancev2'
 
 
 
