@@ -35,5 +35,5 @@ sftp-config.json
 /.github/
 package-lock.json
 yarn-lock.json
-node_modules_old
+node_modules
 build
